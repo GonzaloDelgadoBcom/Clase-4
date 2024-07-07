@@ -1,0 +1,1 @@
+generarGaleria("#alquilerBox", propiedadesAlquiler);
